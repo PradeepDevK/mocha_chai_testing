@@ -1,0 +1,15 @@
+{
+  "name": "mocha_chai_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=development mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "cross-env": "^7.0.3"
+  }
+}
